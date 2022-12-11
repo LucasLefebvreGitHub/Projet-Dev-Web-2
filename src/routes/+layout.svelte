@@ -104,10 +104,6 @@
       }
 
       function closeMenuOnBodyClick(event){
-        closeNav();
-      }
-
-      function closeMenuOnBodyClick(event){
         const path = event.composedPath();
         if (path.some(elem => elem.id === 'mySidepanel')) {
           closeNav()

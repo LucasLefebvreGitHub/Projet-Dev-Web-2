@@ -127,7 +127,7 @@
   <div align="right">
     <div id="mySidepanel" class="sidepanel">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-      <a href="https://sveltejskittemplatedefaultq3fsun-zu1q--5173.local-credentialless.webcontainer.io/">HOME</a>
+      <a href="https://projet-dev-web-2.vercel.app/">HOME</a>
       <a href="Studies">STUDIES</a>
       <a class="closeMenuOnBodyClick()" href="Works">WORKS</a>
       <a href="Aboutme">ABOUT ME</a>

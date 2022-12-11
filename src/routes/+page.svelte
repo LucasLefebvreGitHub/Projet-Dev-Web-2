@@ -27,27 +27,6 @@
         font-family: system-ui;
 	}
 
-
-    .title .border span:first-child {
-        margin-bottom: 1.2rem;
-    }
-
-    .title .border  {
-        width: 70px;
-    }
-
-    .title .border span {
-        display: block;
-        width: 88px;
-        height: 4px;
-        border-radius: 5px;
-        background: #ff4d5a;
-    }
-
-    .title .border span:last-child {
-        margin-left: 43px;
-    }
-
     .Poste {
         font-size: 2.4rem;
         font-family: system-ui;
@@ -64,7 +43,6 @@
 
 	<div class="Profil">	
         <h2 class="Name">Lucas <br> Lefebvre</h2>
-        <div class="border"><span></span><span></span></div>
         <p class="Poste">Apprentice engineer</p>
   </div>
 
